@@ -1,0 +1,1 @@
+mod/Cobblemon-fabric-1.6.1+1.21.1.jar filter=lfs diff=lfs merge=lfs -text
